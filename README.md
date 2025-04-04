@@ -1,4 +1,4 @@
-# credit_card_fraud
+# Credit_Card_Fraud Detection
 This project aims to create multiple machine learning models, which should be able to predict credit card fraud.
 About Dataset
 Digital payments are evolving, but so are cyber criminals.
